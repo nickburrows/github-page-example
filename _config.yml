@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username: nickburrows
 github_repo: "github-page-example"
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: dark
 
 search: true
