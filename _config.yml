@@ -1,1 +1,10 @@
+title: fastpages
+description: An easy to use blogging platform with support for Jupyter Notebooks.
+github_username: nickburrows
+# you can comment the below line out if your repo name is not different than your baseurl
+github_repo: "github-page-example"
+
+url: "https://nickburrows.github.io"
+baseurl: "/github-page-example"
+
 theme: jekyll-theme-minimal
