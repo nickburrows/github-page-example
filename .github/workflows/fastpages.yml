@@ -1,2 +1,10 @@
-- name: fastpages: An easy to use blogging platform with support for Jupyter Notebooks.
-  uses: fastai/fastpages@v2.1.5
+name: Install fastpages
+
+on: [push]
+
+jobs:
+  Install-fastpages:
+    runs-on: ubuntu-latest
+    steps:
+      - name: fastpages: An easy to use blogging platform with support for Jupyter Notebooks.
+        uses: fastai/fastpages@v2.1.5
